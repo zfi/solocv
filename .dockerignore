@@ -1,0 +1,7 @@
+#
+# Ignore a great many things when building the Docker image
+#
+
+scripts
+package.json
+package-lock.json
